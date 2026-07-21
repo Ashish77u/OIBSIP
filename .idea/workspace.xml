@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76d05bd8-21dd-4554-89bd-48886217fb49" name="Changes" comment="Add NumberGuessingGame java file" />
+    <list default="true" id="76d05bd8-21dd-4554-89bd-48886217fb49" name="Changes" comment="Add NumberGuessingGame java file">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-Task5-DigitalLibraryManagementSystem/.idea/Java-Task5-DigitalLibraryManagementSystem.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-Task5-DigitalLibraryManagementSystem/librarymanagementsystem/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-Task5-DigitalLibraryManagementSystem/librarymanagementsystem/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-Task5-DigitalLibraryManagementSystem/librarymanagementsystem/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-Task5-DigitalLibraryManagementSystem/librarymanagementsystem/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-Task5-DigitalLibraryManagementSystem/librarymanagementsystem/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-Task5-DigitalLibraryManagementSystem/librarymanagementsystem/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-Task5-DigitalLibraryManagementSystem/librarymanagementsystem/src/main/java/com/library/librarymanagementsystem/LibrarymanagementsystemApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-Task5-DigitalLibraryManagementSystem/librarymanagementsystem/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-Task5-DigitalLibraryManagementSystem/librarymanagementsystem/src/test/java/com/library/librarymanagementsystem/LibrarymanagementsystemApplicationTests.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
